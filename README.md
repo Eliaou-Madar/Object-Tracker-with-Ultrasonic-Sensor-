@@ -6,9 +6,6 @@ Object Tracker with Ultrasonic Sensor
 
  
 
-תמונה שמכילה גופן, גרפיקה, לוגו, עיצוב גרפי
-
-התיאור נוצר באופן אוטומטי 
 
 Madar Eliaou 1954753 
 
@@ -20,7 +17,6 @@ Baryohay Uzan 916781
 
  
 
-             Figure 1: robotic ultrasonic sensor 
 
  
 
