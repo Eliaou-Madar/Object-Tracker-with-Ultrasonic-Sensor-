@@ -5,23 +5,13 @@ Final project in computer embedded systems
 Object Tracker with Ultrasonic Sensor 
 
 
- https://github.com/Eliaou-Madar/Object-Tracker-with-Ultrasonic-Sensor-/blob/main/media/shema%20arduino%202.jpg
+![shema arduino 2](https://github.com/user-attachments/assets/633f3109-add3-4c34-8dd6-9629b62c6f98)
+
 
 
 Madar Eliaou 1954753 
 
 Baryohay Uzan 916781 
-
- 
-
- 
-
- 
-
-
- 
-
- 
 
  
 
@@ -46,3 +36,10 @@ Interactivity: Allows the user to manually set a target distance using a push bu
  
 
 Adaptability: Handles lateral movements of the object using a scanning system. 
+
+![shema arduino](https://github.com/user-attachments/assets/f9dace46-6cc7-4fbf-b529-1553299932a6)
+
+![shema arduino 3](https://github.com/user-attachments/assets/73726e51-1f96-4ee5-bf4a-7b6e83608f05)
+
+
+
