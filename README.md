@@ -4,7 +4,8 @@ Final project in computer embedded systems
 
 Object Tracker with Ultrasonic Sensor 
 
- 
+
+ https://github.com/Eliaou-Madar/Object-Tracker-with-Ultrasonic-Sensor-/blob/main/media/shema%20arduino%202.jpg
 
 
 Madar Eliaou 1954753 
